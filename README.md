@@ -1,51 +1,101 @@
-# Hi, I'm Camilo Herrera 👋
+<div align="center">
 
-Software Engineering student at **Universidad Industrial de Santander (UIS)**, Colombia.  
-I build things at the intersection of **machine learning**, **computer vision**, and **full-stack web development**.
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Camilo%20Herrera&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20UIS&descAlignY=58&descSize=18&animation=fadeIn" />
+
+</div>
 
 ---
 
-## 🧠 What I'm Working On
+<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=Blinded4545&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-- Reinforcement learning agents for combinatorial problems
-- Image classification and computer vision (CNNs, traditional ML)
-- Production-ready front-end apps with React + TypeScript
-- Solving problems that are actually interesting
+### 👋 Hey, I'm Camilo
+
+- 🎓 Software Engineering @ **Universidad Industrial de Santander**, Colombia — 7th semester
+- 🧠 Focused on **Machine Learning**, **Computer Vision** & **Reinforcement Learning**
+- 🌐 Also building production **React + TypeScript** apps
+- 💬 Fluent in **English** and **Spanish**
+- 🌍 Open to **remote junior roles** — ML or full-stack
+- ⚡ Fun fact: I trained a neural network to solve a Rubik's cube
+
+<br clear="right"/>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<div align="center">
 
-**ML / Data**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+**Languages**
 
-**Web**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**ML / AI**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Web**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [🧩 2x2 Rubik's Solver](https://github.com/Blinded4545/2X2_SOLVING_MODEL) | RL agent using DeepCube (ADI + A*) to solve the 2x2 cube | Python · PyTorch |
-| [🌿 Plant Species Classifier](https://github.com/Blinded4545/Reconocimiento-de-plantas-usando-imagenes-de-sus-hojas-Proyecto-IA-1) | Multi-model classifier (DNN, SVM, RF, KMeans) on a custom leaf dataset from UIS | Python · scikit-learn · Jupyter |
-| [🏠 Family Care](https://github.com/Blinded4545/Family-Care) | Product catalog web app — live at [productosfamilycare.com](https://productosfamilycare.com) | React · TypeScript · Vite |
+<div align="center">
+
+<a href="https://github.com/Blinded4545/2X2_SOLVING_MODEL">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Blinded4545&repo=2X2_SOLVING_MODEL&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Blinded4545/Reconocimiento-de-plantas-usando-imagenes-de-sus-hojas-Proyecto-IA-1">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Blinded4545&repo=Reconocimiento-de-plantas-usando-imagenes-de-sus-hojas-Proyecto-IA-1&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Blinded4545/Family-Care">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Blinded4545&repo=Family-Care&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
 
 ---
 
-## 📫 Get in Touch
+## 📊 GitHub Stats
 
-Open to **remote junior roles** in ML engineering or full-stack development. 
+<div align="center">
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Blinded4545&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blinded4545&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+</div>
 
 ---
 
-*"The best way to understand something is to build it."*
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU-EMAIL@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://productosfamilycare.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+
+</div>
