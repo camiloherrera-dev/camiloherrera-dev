@@ -11,10 +11,10 @@
 
 ### 👋 Hey, I'm Camilo
 
-- 🎓 Software Engineering @ **Universidad Industrial de Santander**, Colombia — 7th semester
+- 🎓 Software Engineering @ **Universidad Industrial de Santander**, Colombia — 8th semester
 - 🧠 Focused on **Machine Learning**, **Computer Vision** & **Reinforcement Learning**
 - 🌐 Also building production **React + TypeScript** apps
-- 💬 Fluent in **English** and **Spanish**
+- 💬 Fluent in **English** and **Spanish**, also I'm learning **Chinese**!
 - 🌍 Open to **remote junior roles** — ML or full-stack
 - ⚡ Fun fact: I trained a neural network to solve a Rubik's cube
 
