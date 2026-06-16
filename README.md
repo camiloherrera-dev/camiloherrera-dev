@@ -9,20 +9,20 @@
 
 <img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=camiloherrera-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-### 👋 Hey, I'm Camilo
+### Heyy, I'm Camilo
 
-- 🎓 Software Engineering @ **Universidad Industrial de Santander**, Colombia — 8th semester
-- 🧠 Focused on **Machine Learning**, **Computer Vision** & **Reinforcement Learning**
-- 🌐 Also building production **React + TypeScript** apps
-- 💬 Fluent in **English** and **Spanish**, also I'm learning **Chinese**!
-- 🌍 Open to **remote junior roles** — ML or full-stack
-- ⚡ Fun fact: I trained a neural network to solve a Rubik's cube
+- Software Engineering @ **Universidad Industrial de Santander**, Colombia in 8th semester
+- Focused on **Machine Learning**, **Computer Vision** & **Reinforcement Learning**
+- Also building production **React + TypeScript** apps
+- Fluent in **English** and **Spanish**, also I'm learning **Chinese**!
+- Open to **remote junior roles** for ML or full-stack
+- Fun fact: I like sharks quite a lot
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -72,7 +72,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -91,7 +91,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
